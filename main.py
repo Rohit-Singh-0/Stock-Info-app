@@ -8,7 +8,7 @@ STOCK_ENDPOINT = 'https://www.alphavantage.co/query'
 NEWS_ENDPOINT = 'https://www.alphavantage.co/query'
 SMS_ENDPOINT = 'https://www.twilio.com'
 
-STOCK_API_KEY = 'TP6TRJOZQGE0T7H8'
+STOCK_API_KEY = 'ENTER YOUR API KEY HERE'
 
 NEWS_PARAMS = {
     'function': 'NEWS_SENTIMENT',
